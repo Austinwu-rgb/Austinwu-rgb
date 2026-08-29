@@ -11,7 +11,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="" width="28" /> now playing
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="" width="28" /> Most recently played (project)
 
 <table>
   <tr>
@@ -33,7 +33,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Optical%20Disk.png" alt="" width="28" /> tracklist
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Optical%20Disk.png" alt="" width="28" /> Playlist (projects)
 
 <table>
   <thead>
@@ -109,7 +109,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="" width="28" /> gear
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="" width="28" /> Tech stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,python,react,nodejs,css,html" alt="TypeScript JavaScript Python React Node CSS HTML" />
