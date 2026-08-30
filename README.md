@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header-themes/cycle-shimmer-18s.svg" alt="Austin Wu's Github" width="900" />
+  <img src="./assets/header-themes/cycle-shimmer-15s-v2.svg" alt="Austin Wu's Github" width="900" />
 </div>
 
 <br/>
