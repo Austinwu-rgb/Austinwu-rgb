@@ -31,7 +31,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Optical%20Disk.png" alt="" width="28" /> Playlist (Featured Projects)
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Optical%20Disk.png" alt="" width="28" /> Featured Projects
 
 <table>
   <thead>
@@ -115,6 +115,4 @@
 
 ## notes
 
-- I tend to build small tools when something in my day-to-day bugs me
-- Like messing with music stuff, browser extensions, and the occasional game
-- Always down to learn whatever the next project needs
+- Hey, I'm Austin, I like to make software that might make my life and other's a little easier! Always excited to learn more!
