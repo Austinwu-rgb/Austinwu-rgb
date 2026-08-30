@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header-player.svg" alt="Austin Wu's Github" width="900" />
+  <img src="./assets/banner.svg" alt="Austin Wu's Github" width="900" />
 </div>
 
 <br/>
@@ -11,7 +11,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="" width="28" /> Pinned Project
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="" width="28" /> Pinned Project
 
 <table>
   <tr>
@@ -31,7 +31,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="" width="28" /> Featured Work
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Optical%20Disk.png" alt="" width="28" /> Playlist (Featured Projects)
 
 <table>
   <thead>
@@ -75,7 +75,7 @@
     <tr>
       <td>
         <a href="https://github.com/Austinwu-rgb/SpoilerAlert">
-          <img src="./assets/covers/03-spoileralert.svg" width="56" height="56" alt="cover" />
+          <img src="./assets/covers/spoileralert.svg" width="56" height="56" alt="SpoilerAlert cover" />
         </a>
       </td>
       <td align="center"><b>03</b></td>
