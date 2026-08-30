@@ -23,7 +23,7 @@
     <td>
       <b>Youtube-Music-Playlist-Fixer</b><br/>
       <sub>TypeScript · Chrome extension</sub><br/><br/>
-      Right now I'm messing with a Chrome extension that rescues dead tracks on YouTube Music. Greyed-out songs drive me crazy, so this scans the playlist and helps swap in working reuploads.<br/><br/>
+      This chrome extension gets fixes all of those greyed out unplayable songs in your youtube music playlist!<br/><br/>
       <a href="https://github.com/Austinwu-rgb/Youtube-Music-Playlist-Fixer">open project →</a>
     </td>
   </tr>
