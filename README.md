@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.svg" alt="Austin Wu's Github" width="900" />
+  <img src="./assets/header-b.svg" alt="Austin Wu's Github" width="900" />
 </div>
 
 <br/>
