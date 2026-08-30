@@ -11,29 +11,27 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="" width="28" /> Most recently played (project)
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="" width="28" /> Pinned Project
 
 <table>
   <tr>
     <td width="120">
       <a href="https://github.com/Austinwu-rgb/Youtube-Music-Playlist-Fixer">
-        <img src="./assets/covers/01-yt-fixer.svg" width="110" alt="YT Music Playlist Fixer cover (placeholder)" />
+        <img src="./assets/covers/01-yt-fixer.svg" width="110" alt="YT Music Playlist Fixer cover" />
       </a>
     </td>
     <td>
       <b>Youtube-Music-Playlist-Fixer</b><br/>
       <sub>TypeScript · Chrome extension</sub><br/><br/>
       Right now I'm messing with a Chrome extension that rescues dead tracks on YouTube Music. Greyed-out songs drive me crazy, so this scans the playlist and helps swap in working reuploads.<br/><br/>
-      <a href="https://github.com/Austinwu-rgb/Youtube-Music-Playlist-Fixer">open track →</a>
-      &nbsp;·&nbsp;
-      <i>cover art is a placeholder until I drop a real screenshot here</i>
+      <a href="https://github.com/Austinwu-rgb/Youtube-Music-Playlist-Fixer">open project →</a>
     </td>
   </tr>
 </table>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Optical%20Disk.png" alt="" width="28" /> Playlist (projects)
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Optical%20Disk.png" alt="" width="28" /> Featured Work
 
 <table>
   <thead>
@@ -77,7 +75,7 @@
     <tr>
       <td>
         <a href="https://github.com/Austinwu-rgb/SpoilerAlert">
-          <img src="./assets/covers/03-spoileralert.png" width="56" height="56" alt="cover" />
+          <img src="./assets/covers/03-spoileralert.svg" width="56" height="56" alt="cover" />
         </a>
       </td>
       <td align="center"><b>03</b></td>
@@ -105,8 +103,6 @@
   </tbody>
 </table>
 
-<p align="center"><sub>4 tracks · shuffle off · repeat playlist</sub></p>
-
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="" width="28" /> Tech stack
@@ -122,7 +118,3 @@
 - I tend to build small tools when something in my day-to-day bugs me
 - Like messing with music stuff, browser extensions, and the occasional game
 - Always down to learn whatever the next project needs
-
-<p align="center">
-  <i>drop a real screenshot into <code>assets/covers/01-yt-fixer.svg</code> when you have one</i>
-</p>
