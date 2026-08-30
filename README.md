@@ -1,17 +1,17 @@
 <div align="center">
-  <img src="./assets/header-player.svg" alt="Austin's Playlist player with live equalizer" width="900" />
+  <img src="./assets/header-player.svg" alt="Austin Wu's Github" width="900" />
 </div>
 
 <br/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/theaustinwu"><img src="https://img.shields.io/badge/LinkedIn-theaustinwu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://uwaterloo.ca/"><img src="https://img.shields.io/badge/CS-University%20of%20Waterloo-FDB515?style=for-the-badge" alt="University of Waterloo" /></a>
+  <a href="mailto:a32wu@uwaterloo.ca"><img src="https://img.shields.io/badge/Outlook-a32wu%40uwaterloo.ca-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email a32wu@uwaterloo.ca" /></a>
 </p>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="" width="28" /> Pinned Project
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="" width="28" /> Pinned Project
 
 <table>
   <tr>
@@ -31,7 +31,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Optical%20Disk.png" alt="" width="28" /> Featured Work
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="" width="28" /> Featured Work
 
 <table>
   <thead>

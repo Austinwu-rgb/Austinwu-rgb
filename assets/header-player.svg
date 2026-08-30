@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-label="Austin playlist player">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-label="Austin Wu's Github">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#0b0618"/>
@@ -33,18 +33,17 @@
   <circle cx="650" cy="205" r="1.1" fill="#fff" opacity="0.5"/>
   <circle cx="250" cy="200" r="1" fill="#ffb3d9" opacity="0.6"/>
 
-  <!-- simple play button -->
-  <rect x="36" y="36" width="148" height="148" rx="12" fill="#1a0b3a"/>
-  <circle cx="110" cy="110" r="42" fill="#ff4d9a"/>
-  <polygon points="98,92 98,128 128,110" fill="#ffffff"/>
+  <!-- simple AW mark -->
+  <rect x="36" y="36" width="148" height="148" rx="16" fill="#1a0b3a"/>
+  <text x="110" y="128" text-anchor="middle" fill="#ff7eb6" font-family="Georgia, Times New Roman, serif" font-size="56" font-weight="700">AW</text>
 
   <!-- label + live dot with a real gap after the text -->
   <circle cx="210" cy="53" r="5" fill="#ff4d9a">
     <animate attributeName="opacity" values="0.35;1;0.35" dur="1.6s" repeatCount="indefinite"/>
   </circle>
   <text x="224" y="58" fill="#ff7eb6" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">NOW PLAYING</text>
-  <text x="210" y="98" fill="#FFFFFF" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="700">Austin's Playlist</text>
-  <text x="210" y="128" fill="#c9b8ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15">CS @ Waterloo · Vancouver · tools, music, games</text>
+  <text x="210" y="98" fill="#FFFFFF" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="700">Austin Wu's Github</text>
+  <text x="210" y="128" fill="#c9b8ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15">3B Computer Science @ Waterloo</text>
 
   <rect x="210" y="152" width="420" height="6" rx="3" fill="#2a1848"/>
   <rect x="210" y="152" height="6" rx="3" fill="url(#accent)" width="80">
