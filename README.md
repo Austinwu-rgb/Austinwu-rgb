@@ -23,7 +23,7 @@
     <td>
       <b>Youtube-Music-Playlist-Fixer</b><br/>
       <sub>TypeScript · Chrome extension</sub><br/><br/>
-      This chrome extension fixes greyed out and unplayable songs in your youtube music playlist by finding re-uploads or alternate uploads.<br/><br/>
+      This chrome extension fixes unplayable songs in your youtube music playlist by finding re-uploads or alternate uploads.<br/><br/>
       <a href="https://github.com/Austinwu-rgb/Youtube-Music-Playlist-Fixer">open project →</a>
     </td>
   </tr>
