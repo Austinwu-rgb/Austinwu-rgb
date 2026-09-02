@@ -69,7 +69,7 @@
         <a href="https://github.com/Austinwu-rgb/rl-battlesnake"><b>RL-Battlesnake</b></a><br/>
         <sub>Austin Wu · Python</sub>
       </td>
-      <td>Teaches a PPO snake to play Battlesnake on a grid</td>
+      <td>Teaches a PPO snake to play Battlesnake using Reinforcement Learning</td>
       <td align="center"><code>PY</code></td>
     </tr>
     <tr>
@@ -83,7 +83,7 @@
         <a href="https://github.com/PACK-Hacks/Chordinator.AI"><b>Chordinator.AI</b></a><br/>
         <sub>PACK-Hacks · Python + JS</sub>
       </td>
-      <td>Hackathon project for chord / music ideas</td>
+      <td>Chord progression generator to help brainstorm music compositions</td>
       <td align="center"><code>PY</code></td>
     </tr>
     <tr>
@@ -97,7 +97,7 @@
         <a href="https://github.com/Austinwu-rgb/SpoilerAlert"><b>SpoilerAlert</b></a><br/>
         <sub>Austin Wu · React + Node</sub>
       </td>
-      <td>Food expiry tracker so nothing dies in the fridge</td>
+      <td>Food expiry tracker so nothing rots in the fridge</td>
       <td align="center"><code>JS</code></td>
     </tr>
     <tr>
