@@ -60,11 +60,25 @@
     </tr>
     <tr>
       <td>
+        <a href="https://github.com/Austinwu-rgb/rl-battlesnake">
+          <img src="./assets/covers/rl-battlesnake.svg" width="56" height="56" alt="cover" />
+        </a>
+      </td>
+      <td align="center"><b>02</b></td>
+      <td>
+        <a href="https://github.com/Austinwu-rgb/rl-battlesnake"><b>RL-Battlesnake</b></a><br/>
+        <sub>Austin Wu · Python</sub>
+      </td>
+      <td>Teaches a PPO snake to play Battlesnake on a grid</td>
+      <td align="center"><code>PY</code></td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://github.com/PACK-Hacks/Chordinator.AI">
           <img src="./assets/covers/02-chordinator.svg" width="56" height="56" alt="cover" />
         </a>
       </td>
-      <td align="center"><b>02</b></td>
+      <td align="center"><b>03</b></td>
       <td>
         <a href="https://github.com/PACK-Hacks/Chordinator.AI"><b>Chordinator.AI</b></a><br/>
         <sub>PACK-Hacks · Python + JS</sub>
@@ -78,7 +92,7 @@
           <img src="./assets/covers/spoileralert.svg" width="56" height="56" alt="SpoilerAlert cover" />
         </a>
       </td>
-      <td align="center"><b>03</b></td>
+      <td align="center"><b>04</b></td>
       <td>
         <a href="https://github.com/Austinwu-rgb/SpoilerAlert"><b>SpoilerAlert</b></a><br/>
         <sub>Austin Wu · React + Node</sub>
@@ -92,7 +106,7 @@
           <img src="./assets/covers/04-laser-bubble.png" width="56" height="56" alt="cover" />
         </a>
       </td>
-      <td align="center"><b>04</b></td>
+      <td align="center"><b>05</b></td>
       <td>
         <a href="https://github.com/Austinwu-rgb/Laser-Bubble"><b>Laser-Bubble</b></a><br/>
         <sub>Austin Wu · GameMaker</sub>
